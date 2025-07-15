@@ -11,11 +11,19 @@
 
 - 📫 How to reach me **dophindahouse@gmail.com**
 
-- 📄 Know about my experiences as an innovative and analytical professional, I bring extensive experience in data management, process automation, and full-stack development. Proficient in SQL, PostgreSQL, and Python, I design robust data pipelines, optimize relational databases, and automate reporting systems that enable real-time, data-informed decision-making. With a strong command of JavaScript and hands-on experience in Excel and Power BI, I deliver dynamic data visualizations, build interactive tools, and transform raw datasets into meaningful business intelligence. 
-My technical fluency empowers teams to act on insights with precision and confidence. In addition to my development toolkit, I possess advanced knowledge of the Adobe Creative Suite, which allows me to create clear, impactful communication materials that bridge the gap between technical complexity and executive strategy. Known for my intercultural fluency and clear communication, I thrive in collaborative environments—offering strategic planning, empathetic leadership, and agile problem-solving that drive innovation and measurable impact across organizations. As an innovative and analytical professional, I bring extensive experience in data management, process automation, and full-stack development. 
-Proficient in SQL, PostgreSQL, and Python, I design robust data pipelines, optimize relational databases, and automate reporting systems that enable real-time, data-informed decision-making. With a strong command of JavaScript and hands-on experience in Excel and Power BI, I deliver dynamic data visualizations, build interactive tools, and transform raw datasets into meaningful business intelligence. 
-My technical fluency empowers teams to act on insights with precision and confidence. In addition to my development toolkit, I possess advanced knowledge of the Adobe Creative Suite, which allows me to create clear, impactful communication materials that bridge the gap between technical complexity and executive strategy. 
-Known for my intercultural fluency and clear communication, I thrive in collaborative environments—offering strategic planning, empathetic leadership, and agile problem-solving that drive innovation and measurable impact across organizations.)
+- 📄 Accomplished analytical professional specializing in data management, process automation, and full-stack development.
+
+Proficient in SQL, PostgreSQL, Python, JavaScript, Excel, and Power BI, with demonstrated expertise in architecting robust data pipelines, optimizing relational databases, and automating reporting workflows.
+
+Expert in developing dynamic visualizations and interactive business-intelligence tools that convert raw datasets into strategic insights.
+
+Highly skilled in Adobe Creative Suite, producing executive-level communications that align technical detail with organizational strategy.
+
+Recognized for intercultural fluency, articulate communication, and empathetic leadership.
+
+Thrives in collaborative environments, driving innovation through strategic planning and agile methodologies.
+
+Committed to empowering teams to execute precise, data-driven decisions with confidence.
 
 - ⚡ Fun fact **Blooborne player Lvl. 90**
 
