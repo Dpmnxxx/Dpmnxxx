@@ -13,17 +13,17 @@
 
 - 📄 Accomplished analytical professional specializing in data management, process automation, and full-stack development.
 
-Proficient in SQL, PostgreSQL, Python, JavaScript, Excel, and Power BI, with demonstrated expertise in architecting robust data pipelines, optimizing relational databases, and automating reporting workflows.
+- 📄 Proficient in SQL, PostgreSQL, Python, JavaScript, Excel, and Power BI, with demonstrated expertise in architecting robust data pipelines, optimizing relational databases, and automating reporting workflows.
 
-Expert in developing dynamic visualizations and interactive business-intelligence tools that convert raw datasets into strategic insights.
+- 📄 Expert in developing dynamic visualizations and interactive business-intelligence tools that convert raw datasets into strategic insights.
 
-Highly skilled in Adobe Creative Suite, producing executive-level communications that align technical detail with organizational strategy.
+- 📄 Highly skilled in Adobe Creative Suite, producing executive-level communications that align technical detail with organizational strategy.
 
-Recognized for intercultural fluency, articulate communication, and empathetic leadership.
+- 📄 Recognized for intercultural fluency, articulate communication, and empathetic leadership.
 
-Thrives in collaborative environments, driving innovation through strategic planning and agile methodologies.
+- 📄 Thrives in collaborative environments, driving innovation through strategic planning and agile methodologies.
 
-Committed to empowering teams to execute precise, data-driven decisions with confidence.
+- 📄 Committed to empowering teams to execute precise, data-driven decisions with confidence.
 
 - ⚡ Fun fact **Blooborne player Lvl. 90**
 
